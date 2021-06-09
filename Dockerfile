@@ -1,4 +1,4 @@
-FROM node:12-stretch
+FROM node:14-stretch
 
 ENV APP_PATH=/usr/src/app NPM_CONFIG_LOGLEVEL=warn
 
