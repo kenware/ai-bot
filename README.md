@@ -22,7 +22,7 @@
   ```
 * Within the express container instance run test with
   ```
-  npm run watch
+  npm test
   ```
 
 ### Manual installation
